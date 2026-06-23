@@ -96,11 +96,11 @@ nourhan = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NourhanHabila&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+[![Nourhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NourhanHabila&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
