@@ -96,11 +96,16 @@ nourhan = {
 
 ---
 
-## 📈 Activity Graph
+## 💻 Coding Vibes
 
 <div align="center">
 
-[![Nourhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NourhanHabila&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NourhanHabila&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourhanHabila&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
 
 </div>
 
